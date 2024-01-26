@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin:wght@400;700&family=Roboto&display=swap');
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #000;
+  color: #fff;
+  font-family: 'Roboto', sans-serif;
+}
+
+.nav-link{
+  color: #000;
+}
+
+.viajes-svg{
+  width: 1.5rem;
+}
+
+.images {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar-brand, .nav-link {
+  color: #fff;
+}
+
+.rrss-icons a {
+  text-decoration: none;
+  color: #fff;
+}
